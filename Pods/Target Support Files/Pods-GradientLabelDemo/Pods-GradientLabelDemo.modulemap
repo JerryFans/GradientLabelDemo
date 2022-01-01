@@ -1,0 +1,6 @@
+framework module Pods_GradientLabelDemo {
+  umbrella header "Pods-GradientLabelDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

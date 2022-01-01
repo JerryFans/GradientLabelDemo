@@ -1,0 +1,16 @@
+PODS:
+  - JRBaseKit (1.0.0)
+
+DEPENDENCIES:
+  - JRBaseKit
+
+SPEC REPOS:
+  trunk:
+    - JRBaseKit
+
+SPEC CHECKSUMS:
+  JRBaseKit: ed75cfce9e340a3316bee0eaac0fa1c400714287
+
+PODFILE CHECKSUM: b9930bb13436e7e66e3e8c94df000aff3beeed11
+
+COCOAPODS: 1.11.2
